@@ -1,15 +1,17 @@
 .img-resize {
-    width: 250px;
+    width: 500px;
     height: auto;
+    padding: 6px;
+    margin: 20px;
 }
 
 .name-heading {
-    font-weight: 750;
-    text-transform: capitalize;
+    font-weight: 900;
 }
 
-.marging-top {
-    margin-top: 20px;
+.about-me {
+    font-style: italic;
+    margin: 20px;
 }
 h2 {
     text-align: center;
