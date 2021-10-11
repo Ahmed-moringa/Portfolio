@@ -8,3 +8,7 @@
     text-decoration: underline;
     text-transform: capitalize;
 }
+
+.marging-top {
+    margin-top: 20px;
+}
