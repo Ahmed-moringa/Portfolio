@@ -1,0 +1,10 @@
+.img-resize {
+    width: 250px;
+    height: auto;
+}
+
+.name-heading {
+    font-weight: 750;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
