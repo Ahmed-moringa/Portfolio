@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello! My name is Ahmed Mohamed, and this is my portfolio webpage. Kindly explore and leave any feedback!
+This is my portfolio webpage for all the projects I've done. Kindly explore and leave any feedback!
 
 [![Portfolio-capture.png](https://i.postimg.cc/Gh6n4zYb/Portfolio-capture.png)](https://postimg.cc/nCKP540W)
 
