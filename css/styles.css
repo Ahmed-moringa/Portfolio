@@ -1,6 +1,6 @@
 
 .image {
-    width: 500px;
+    width: 350px;
     height: auto;
     padding: 6px;
     margin: 20px;
@@ -19,10 +19,6 @@ h2 {
     text-decoration: underline;
 }
 
-@media screen and (min-width: 480px) {
-    body {
-        background-color: black;
-        color: white;
-    }
+h4 {
+    color: #BFE3AD;
 }
-  
