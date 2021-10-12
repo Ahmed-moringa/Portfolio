@@ -2,7 +2,7 @@
 
 Hello! My name is Ahmed Mohamed, and this is my portfolio webpage. Kindly explore and leave any feedback!
 
-[![Portfolio-screenshot.png](https://i.postimg.cc/fyrPGTZx/Screenshot.png)](https://postimg.cc/N2RbTtKM)
+[![Screenshot.png](https://i.postimg.cc/fyrPGTZx/Screenshot.png)](https://postimg.cc/N2RbTtKM)
 
 
 ## Technologies Used
